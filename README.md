@@ -5,6 +5,7 @@
 ### **Contract Address**
 `0x3e9b1497Af7833595B9Aff60657A0cD13Bd0a3B2`  
 (https://coston2-explorer.flare.network/address/0x3e9b1497Af7833595B9Aff60657A0cD13Bd0a3B2)
+<img width="1847" height="986" alt="image" src="https://github.com/user-attachments/assets/b5b5d98b-953f-4efd-a546-ec092df16585" />
 
 ---
 
